@@ -9,15 +9,20 @@ I'm Cameron, a software engineer from the Bay Area 👋 I've been working the te
 * [scuttle](https://scuttle.io) - A library and website for transforming raw SQL statements into ActiveRecord/Arel queries.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - A Ruby implementation of the industry-standard International Components for Unicode (ICU) for formating dates, plurals, and more.
 * [view_component](https://github.com/ViewComponent/view_component) - Co-maintainer. A framework for building reusable, testable & encapsulated view components in Ruby on Rails.
-* garnet-js
-* onload
-* cldr-segmentation.js
-* antlr4-native
-* prebundler
-* ttfunk
-* kuby
-* rsc
-* rosette/abroad/txgh
+* [garnet-js](https://github.com/camertron/garnet-js) An implementation of the YARV virtual machine in TypeScript.
+* [onload](https://github.com/camertron/onload) A preprocessor system for Ruby that makes it possible to transform files before they are loaded into the interpreter.
+* [cldr-segmentation.js](https://github.com/camertron/cldr-segmentation.js) CLDR text segmentation for JavaScript.
+* [antlr4-native-rb](https://github.com/camertron/antlr4-native-rb) Create native Ruby extensions from (almost) any ANTLR4 grammar.
+* [prebundler](https://github.com/camertron/prebundler) Speed up gem installation by prebuilding gems and storing them in S3.
+* [ttfunk](https://github.com/prawnpdf/ttfunk) A font parsing library. I contributed OTF font support.
+* [kuby](https://getkuby.io/) A convention-over-configuration deployment solution for Rails apps, built on Kubernetes.
+* Reasonably Simple Computer (RSC)
+  * [Website](http://www.scuttle.io)
+  * [rsc.js](https://github.com/camertron/rsc.js) JavaScript implementation of the interpreter
+  * [rsc-app](https://github.com/camertron/rsc-app) Rails app
+  * [rscc](https://github.com/camertron/rscc) An RSC compiler written in Rust.
+* [rosette](https://github.com/rosette-proj) Internationalization system that manages translatable content from the source files in a git repository.
+* [abroad](https://github.com/camertron/abroad) A set of parsers and serializers for dealing with localization file formats.
 
 ## Talks
 
