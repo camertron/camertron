@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 👋
 
 I'm Cameron, a software engineer from the Bay Area 👋 I've been working the tech industry since 2010, mostly in Ruby, Rails, and JavaScript. I'm a maintainer of the [ViewComponent](https://github.com/ViewComponent/view_component) framework and have a deep affection for open-source ❤️
 
