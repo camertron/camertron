@@ -2,7 +2,7 @@
 
 I'm Cameron, a software engineer from the Bay Area 👋 I've been working the tech industry since 2010, mostly in Ruby, Rails, and JavaScript. I'm a maintainer of the [ViewComponent](https://github.com/ViewComponent/view_component) framework and have a deep affection for open-source ❤️
 
-## Open-source projects
+## Open-source projects 🔭
 
 * [arel-helpers](https://github.com/camertron/arel-helpers) - Useful tools to help construct database queries with ActiveRecord and Arel.
 * [rux](https://github.com/camertron/rux) - JSX for Ruby and Rails. Allows rendering ViewComponents and markup _inside_ your Ruby code using HTML tags.
@@ -24,11 +24,27 @@ I'm Cameron, a software engineer from the Bay Area 👋 I've been working the te
 * [rosette](https://github.com/rosette-proj) Internationalization system that manages translatable content from the source files in a git repository.
 * [abroad](https://github.com/camertron/abroad) A set of parsers and serializers for dealing with localization file formats.
 
-## Talks
+## Talks 💬
 
-## Writing
+See: https://www.rubyvideo.dev/speakers/cameron-dutro
 
-## Get in touch
+* 4-time speaker at RubyConf and RailsConf!
+  * [Kuby: Active Deployment for Rails Apps](https://www.youtube.com/watch?v=PJeET-SZssM) (RailsConf 2022)
+  * [Cheating with Ruby](https://www.youtube.com/watch?v=fmxTHBO2Yzc) (RubyConf 2018)
+  * [Lightning talk: Installing 440 gems in 40 seconds](https://www.youtube.com/watch?v=YMoa5JpjEtM&t=1275s) (RubyConf 2017)
+  * [Advanced aRel: When ActiveRecord Just Isn't Enough](https://www.youtube.com/watch?v=ShPAxNcLm3o) (RailsConf 2014)
+  * [i18n on Rails: A Twitter Approach](https://www.youtube.com/watch?v=CTu4iHWGDyE) (RailsConf 2012)
+* SF Bay Area Ruby Meetup
+  * [WASM from Ruby](https://www.youtube.com/watch?v=cnhBfOCI0JA&t=4000s) (January 2024)
+  * [How GitHub Uses Web Components](https://www.youtube.com/live/aqvGdPF5Qro?t=776s) (September 2024)
+  * [Let's Write a C Extension!](https://www.youtube.com/watch?v=A31jZ_7KC5Y&t=5613s) (July 2024)
+
+## Writing ✏️
+
+* Personal blog: https://camerondutro.com
+* Here's the [Responsible Monkeypatching](https://blog.appsignal.com/2021/08/24/responsible-monkeypatching-in-ruby.html) article I wrote for the AppSignal blog.
+
+## Get in touch 📫
 
 * Mastodon: https://ruby.social/@camertron
 * Website: https://camerondutro.com
