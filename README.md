@@ -28,7 +28,8 @@ I'm Cameron, a software engineer from the Bay Area 👋 I've been working the te
 
 See: https://www.rubyvideo.dev/speakers/cameron-dutro
 
-* 4-time speaker at RubyConf and RailsConf!
+* 6-time speaker at RubyConf and RailsConf!
+  * [The Front-end is Omakase](https://www.youtube.com/watch?v=4deGaTJ-t14) (RailsConf 2025)
   * [Kuby: Active Deployment for Rails Apps](https://www.youtube.com/watch?v=PJeET-SZssM) (RailsConf 2022)
   * [Cheating with Ruby](https://www.youtube.com/watch?v=fmxTHBO2Yzc) (RubyConf 2018)
   * [Lightning talk: Installing 440 gems in 40 seconds](https://www.youtube.com/watch?v=YMoa5JpjEtM&t=1275s) (RubyConf 2017)
