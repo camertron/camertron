@@ -17,7 +17,6 @@ I'm Cameron, a software engineer from the Bay Area 👋 I've been working the te
 * [ttfunk](https://github.com/prawnpdf/ttfunk) A font parsing library. I contributed OTF font support.
 * [kuby](https://getkuby.io/) A convention-over-configuration deployment solution for Rails apps, built on Kubernetes.
 * Reasonably Simple Computer (RSC)
-  * [Website](http://www.scuttle.io)
   * [rsc.js](https://github.com/camertron/rsc.js) JavaScript implementation of the interpreter
   * [rsc-app](https://github.com/camertron/rsc-app) Rails app
   * [rscc](https://github.com/camertron/rscc) An RSC compiler written in Rust.
